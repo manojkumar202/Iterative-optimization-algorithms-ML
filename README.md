@@ -21,6 +21,6 @@ the current point, because this is the direction of steepest descent.
 
 Continue the process until the cost function converges. That is, until the error curve becomes flat and doesn’t change.
 
-If α is very small, it would take long time to converge and become computationally expensive.
-If α is large, it may fail to converge and overshoot the minimum.
+If α is very small, it would take long time to converge.
+If α is large, it may fail to converge and overshoot the values.
 
