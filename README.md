@@ -1,5 +1,5 @@
 # Iterative-optimization-algorithms-ML
-
+![gd.png](gd.png)
 A few of various gradient descent algorithms implemented in Python from scratch
 
 # Introduction
